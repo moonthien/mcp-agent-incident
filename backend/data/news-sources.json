@@ -1,0 +1,14 @@
+{
+  "newsSources": [
+    {
+      "name": "VnExpress - Thời sự",
+      "url": "https://vnexpress.net/rss/thoi-su.rss",
+      "enabled": true
+    },
+    {
+      "name": "Tuổi Trẻ - Thời sự",
+      "url": "https://tuoitre.vn/rss/thoi-su.rss",
+      "enabled": true
+    }
+  ]
+}

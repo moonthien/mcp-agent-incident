@@ -1,0 +1,27 @@
+{
+  "theme": {
+    "default": "dark"
+  },
+  "mapStyle": "terrain",
+  "services": {
+    "news": {
+      "enabled": true
+    },
+    "video": {
+      "enabled": true
+    },
+    "weather": {
+      "enabled": true
+    }
+  },
+  "geo": {
+    "areas": [
+      {
+        "id": "vn",
+        "name": "Việt Nam",
+        "type": "default",
+        "enabled": true
+      }
+    ]
+  }
+}
